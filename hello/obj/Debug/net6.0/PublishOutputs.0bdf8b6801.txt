@@ -1,0 +1,1 @@
+C:\Users\CWhit\RiderProjects\Bitcoin2\hello\bin\Debug\net6.0\publish\web.config
