@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZNAo0wUpbHmvq5jjfNxlcFnyr6t1Cjp8mL4RLtUIFTvox/Xu3/U7IsiM7d2CIJdZP/rdjgKLK2AhXFsRgNMuw==",
+  "dgSpecHash": "nf3a6EWhUp3racbhnhrorbn602+CrJrmzs1vbVtSOiZ+kkOztBmoY7Zxajouh8o9yWy96oUYXWGVopXOXIZvmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CWhit\\RiderProjects\\hello\\hello\\hello.csproj",
+  "projectFilePath": "C:\\Users\\CWhit\\RiderProjects\\Bitcoin2\\hello\\hello.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CWhit\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.15\\microsoft.aspnetcore.authorization.6.0.15.nupkg.sha512",
     "C:\\Users\\CWhit\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.15\\microsoft.aspnetcore.components.6.0.15.nupkg.sha512",
